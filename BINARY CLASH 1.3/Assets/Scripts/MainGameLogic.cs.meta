@@ -1,0 +1,35 @@
+fileFormatVersion: 2
+guid: e5f91d4a23e22794b869d0cdf03cf91f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - card01: {instanceID: 0}
+  - card02: {instanceID: 0}
+  - card03: {instanceID: 0}
+  - card04: {instanceID: 0}
+  - card05: {instanceID: 0}
+  - card11: {instanceID: 0}
+  - card12: {instanceID: 0}
+  - card13: {instanceID: 0}
+  - card14: {instanceID: 0}
+  - card15: {instanceID: 0}
+  - blockCard: {instanceID: 0}
+  - draw2Card: {instanceID: 0}
+  - resetCard: {instanceID: 0}
+  - PlayerSide: {instanceID: 0}
+  - cardArea1: {instanceID: 0}
+  - cardArea2: {instanceID: 0}
+  - cardArea3: {instanceID: 0}
+  - cardArea4: {instanceID: 0}
+  - cardArea5: {instanceID: 0}
+  - pattern1Text: {instanceID: 0}
+  - pattern2Text: {instanceID: 0}
+  - pattern3Text: {instanceID: 0}
+  - pattern4Text: {instanceID: 0}
+  - pattern5Text: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

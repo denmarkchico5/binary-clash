@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6959210198007056778
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6959210198007056780}
+  - component: {fileID: 6959210198007056779}
+  m_Layer: 5
+  m_Name: Main Game Logic
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &6959210198007056780
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6959210198007056778}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 840, y: 506.1657}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &6959210198007056779
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6959210198007056778}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5f91d4a23e22794b869d0cdf03cf91f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  card01: {fileID: 7166996636680144531, guid: 64d6b6a63c4fba14380da0f52469e496, type: 3}
+  card02: {fileID: 1319613450949116974, guid: 01697296132a35640ad6167ad5584524, type: 3}
+  card03: {fileID: 5971575703836004201, guid: a4aaf563af22ff54dad3047cfd4aa682, type: 3}
+  card04: {fileID: 1195936443322147976, guid: c781c9ee38351984dbba8217ac38036a, type: 3}
+  card05: {fileID: 3615711735769921956, guid: 95f572acd08fe2d4eb05e7213a8938f0, type: 3}
+  card11: {fileID: 7540068400570029007, guid: 7632526611bf6b14695fb590977add19, type: 3}
+  card12: {fileID: 1942520796336111450, guid: 903f47c9255bd9f43a6cf48706f40115, type: 3}
+  card13: {fileID: 3837270821087254697, guid: 3393350db70ef2b43b7e04e7f939b998, type: 3}
+  card14: {fileID: 6979313008259712673, guid: 800ceb6ad2afb314fab947d2c884720f, type: 3}
+  card15: {fileID: 1500966416718723360, guid: 37f554540d075874fb22990eb5088734, type: 3}
+  blockCard: {fileID: 7014650096491782759, guid: d83e8098f5a6d9e43a8899cefd67feda, type: 3}
+  draw2Card: {fileID: 5171606641025434930, guid: 28e271e269d09394789bcc603538a326, type: 3}
+  resetCard: {fileID: 5840176748298692756, guid: 213e7a9b93b8a6442992a07198bef80a, type: 3}
+  PlayerSide: {fileID: 0}
+  cardArea1: {fileID: 0}
+  cardArea2: {fileID: 0}
+  cardArea3: {fileID: 0}
+  cardArea4: {fileID: 0}
+  cardArea5: {fileID: 0}
+  pattern1Text: {fileID: 0}
+  pattern2Text: {fileID: 0}
+  pattern3Text: {fileID: 0}
+  pattern4Text: {fileID: 0}
+  pattern5Text: {fileID: 0}
+  cardPattern: []

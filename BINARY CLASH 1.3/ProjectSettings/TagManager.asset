@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Card Onhand
+  - Card Pattern
+  - Card Area
+  - Discarded
+  - Change Bool
+  - Start Pattern
+  - cards
+  - powercards
+  - on Area 1
+  - on Area 2
+  - on Area 3
+  - on Area 4
+  - on Area 5
+  - matched1
+  - matched2
+  - matched3
+  - matched4
+  - matched5
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
